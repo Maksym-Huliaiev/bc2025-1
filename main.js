@@ -1,1 +1,1 @@
-console.log('Maksym-Huliaiev')
+console.log('Maksym Huliaiev')
